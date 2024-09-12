@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Hydroponic App</string>
+    <string name="app_description">Monitor and control your hydroponic system with ease.</string>
+    <string name="app_description2">Grow your greens without the soil, just a touch away</string>
+    <string name="start_button">Start</string>
+    <string name="next_button">Next</string>
+    <string name="hydroponic_system">Hydroponic System</string>
+    <string name="choose_crop">Choose Crop</string>
+    <string name="select_crop">Select Crop</string>
+    <string name="select_stage">Select Plant Stage</string>
+    <string name="live_status">Live Status</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="plant_type">Plant Type</string>
+    <string name="min_temp">Min Temp (°C)</string>
+    <string name="max_temp">Max Temp (°C)</string>
+    <string name="min_ph">Min pH</string>
+    <string name="max_ph">Max pH</string>
+    <string name="min_rh">Min RH(%RH)</string>
+    <string name="max_rh">Max RH(%RH)</string>
+    <string name="light_duration">Light Duration (hrs)</string>
+    <string name="nutrients">Nutrients (ppm)</string>
+    <string name="submit">Submit</string>
+    <string name="update_parameters">Update Plant Parameters</string>
+    <string name="current_status">Current Status</string>
+    <string name="current_temp">Current Temp</string>
+    <string name="current_ph">Current pH</string>
+    <string name="current_rh">Current RH</string>
+    <string name="light_status">Light Status</string>
+    <string name="nutrient_content">Nutrient Content</string>
+    <string name="update">Update</string>
+    <string name="back">Back</string>
+    <string name="change_parameters">Change Parameters</string>
+    <string name="water_level">Water Level</string>
+    <string name="wifi_details">Wifi Details</string>
+    <string name="wifi_name">Wifi Name</string>
+    <string name="wifi_pass">Wifi Password</string>
+    <string name="enter">Enter</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome!</string>
+    <string name="min_nutrient">Min Nutrient</string>
+    <string name="max_nutrient">Max Nutrient</string>
+    <string name="min_humidity">Min Humidity</string>
+
+
+    <string-array name="crops">
+        <item>Tomato</item>
+        <item>Lettuce</item>
+        <item>cucumber</item>
+        <item>spinach</item>
+    </string-array>
+
+    <string-array name="stages">
+        <item>Seed</item>
+        <item>Germinating</item>
+        <item>Growing</item>
+        <item>Micropropagation</item>
+        <item>Blooming</item>
+    </string-array>
+    <string name="title_activity_read_data">Read_Data</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
